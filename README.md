@@ -3,6 +3,9 @@
 This is my take on a split ergonomic keyboard.
 I will add documentation to buid it here soon.
 
+<img src="images/PXL_20240308_211952683.jpg">
+
+
 # Versions
 ## 1.0
 This version is not my own creation. 
