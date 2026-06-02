@@ -3,7 +3,8 @@
 This is my take on a split ergonomic keyboard.
 I will add documentation to buid it here soon.
 
-<img src="images/PXL_20240308_211952683.jpg">
+<img src="images/6.4/PXL_20260526_200032705.jpg">
+<img src="images/6.4/PXL_20260528_214411976.jpg">
 
 
 # Versions
@@ -37,9 +38,31 @@ This one is fine.
 This was the one that reduced the number of keys to 34.
 I didn't know what to do with the thumb clusters so they got placed to far away.
 
-## 6.0
+## 6.0 
 This is my fifth creation.
 I really like this one. 
 This one reduced the number of keys to 29.
-I currently use this one daily at work and was posted to reddit.
+I currently use this one daily at work.
 The 29 keys make it so there is no doubt of what key you are using because each finger has a maximum of 3 keys.
+
+### 6.2 
+Stability improvement over 6.0.
+The palm rest was integrated into the chassis with a slot to improve regitity. 
+
+
+### 6.3
+Comfortability improvement over 6.2
+The top part of the palm rest was actually important for comfort and was readded.
+Changed the screen to a wider model.
+
+### 6.4 2026-05-25
+Switched to wireless keyboard. https://github.com/thelowprokill/zmk-config
+Added a removeable keywell to make it easier to assemble and not have doors on the front and rear.
+Since it is now wireless there is now a belt hook so the keyboard can be hung from my belt.
+I have now been using version 6.something for coming on three years I have been loving it.
+
+## 7 
+This is a seperate design for a friend it uses a more standard layout.
+
+## 8
+This is a prototype.
